@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alma-Cardenas
 - 👀 I’m interested in reducing the environmental impact of software and applying technology to help us address Climate Change and Biodiversity loss 
-- 🌱 I’m currently learning about emissions from semiconductors and geospatial technologies
+- 🌱 I’m currently learning about emissions from semiconductors and geospatial technologies for Climate Change
 - 💞️ I’m looking to collaborate on how we make the carbon aware software SDK universal
 - 📫 How to reach me aecardenas@live.com
 - 😄 Pronouns: She, her
